@@ -1,0 +1,4 @@
+fastapi==0.142.4
+uvicorn[standard]
+pydantic
+httpx
